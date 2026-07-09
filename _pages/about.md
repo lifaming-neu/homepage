@@ -51,97 +51,99 @@ redirect_from:
   [CCF B, 中科院一区] *Enumerating Cliques on k-partite Graphs*, Data Science and Engineering (DSE), 2026.
 
 * **<u>Faming Li</u>, Zhaonian Zou and Jianzhong Li.**
-  [CCF A, 中科院一区] *Durable Subgraph Matching on Temporal Graphs*, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023, 35(5): 4713–4726.
+  [CCF A, 中科院一区] *Durable Subgraph Matching on Temporal Graphs*. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023, 35(5): 4713–4726.
 
 * **<u>Faming Li</u> and Zhaonian Zou.**
-  [CCF B, 中科院一区] *Subgraph Matching on Temporal Graphs*, Information Sciences, 2021, 578: 539–558.
+  [CCF B, 中科院一区] *Subgraph Matching on Temporal Graphs*. Information Sciences, 2021, 578: 539–558.
 
 * **Zhaonian Zou, <u>Faming Li</u>, Jianzhong Li and Yingshu Li.**
-  [CCF A] *Scalable Processing of Massive Uncertain Graph Data: A Simultaneous Processing Approach*, ICDE 2017: 183–186.
+  [CCF A] *Scalable Processing of Massive Uncertain Graph Data: A Simultaneous Processing Approach*. ICDE, 2017: 183–186.
 
 * **<u>Faming Li</u>, Zhaonian Zou, Jianzhong Li, Yingshu Li and Yubiao Chen.**
-  [CCF B] *Distributed Parallel Structural Hole Detection on Big Graphs*, DASFAA 2019: 519–535.
+  [CCF B] *Distributed Parallel Structural Hole Detection on Big Graphs*. DASFAA, 2019: 519–535.
 
 * **<u>Faming Li</u>, Zhaonian Zou, Jianzhong Li, Xiaochun Yang and Bin Wang.**
-  [CCF C, 中科院一区] *Evolving Subgraph Matching on Temporal Graphs*, Knowledge-Based Systems, 258(2022): 109961.
+  [CCF C, 中科院一区] *Evolving Subgraph Matching on Temporal Graphs*. Knowledge-Based Systems, 258(2022): 109961.
 
 * **<u>Faming Li</u>, Zhaonian Zou, Xianmin Liu, Jianzhong Li, Xiaochun Yang and Bin Wang.**
-  [CCF C, 中科院一区] *Detecting Maximum k-durable Structures on Temporal Graphs*, Knowledge-Based Systems, 271(2023): 110561.
+  [CCF C, 中科院一区] *Detecting Maximum k-durable Structures on Temporal Graphs*. Knowledge-Based Systems, 271(2023): 110561.
 
 * **<u>Faming Li</u>, Zhaonian Zou, Jianzhong Li and Yingshu Li.**
-  [CCF C] *Graph Compression with Stars*, PAKDD 2019: 449–461.
+  [CCF C] *Graph Compression with Stars*. PAKDD, 2019: 449–461.
 
 * **<u>李发明</u>, 李建中, 邹兆年, 张冠男.**
-  [CCF A] 基于压缩的大规模图的割点求解算法, 软件学报, 2014, 25(S2): 178–188.
+  [CCF A] 基于压缩的大规模图的割点求解算法. 软件学报, 2014, 25(S2): 178–188.
 
 * **马杰生, 王理庚, 杨晓春, <u>李发明</u>, 王斌.**
-  [CCF A] CondGraph：一个条件知识图谱的存储和查询系统, 全国知识图谱与语义计算大会（CCKS）最佳中文论文, 2023.
+  [CCF A] CondGraph：一个条件知识图谱的存储和查询系统. 全国知识图谱与语义计算大会（CCKS）最佳中文论文，2023.
+  
 
 ---
 
 ## 科研项目
 
-* **主持：国家自然科学基金青年项目，62202091**
+**主持：国家自然科学基金青年项目，62202091**
   基于自反馈的时态图查询处理及优化技术研究，2023.01–2025.12。
 
-* **主持：中国博士后科学基金第4批特别资助（站前），2022TQ0058**
+**主持：中国博士后科学基金第4批特别资助（站前），2022TQ0058**
 
-* **主持：中国博士后科学基金第71批面上，2022M710634**
-  
-* **主要参与人：国家自然科学基金联合基金重点项目，U22A2025**
+**主持：中国博士后科学基金第71批面上，2022M710634**
+
+**主要参与人：国家自然科学基金联合基金重点项目，U22A2025**
   智能网联车多模态数据管理理论与关键技术研究，2023.01–2026.12。
 
-* **参与：国家自然科学基金重点项目，61732003**
+**参与：国家自然科学基金重点项目，61732003**
   大图数据管理与分析的基础理论与关键技术研究，2018.01–2022.12。
 
 ---
 
 ## 获奖情况
 
-* 2026 年度国际（美国）大学生数学建模竞赛一等奖（Meritorious Winner），指导教师。
-* “兴沈英才计划”拔尖人才（D 类）。
-* 2024 年度高教社杯全国大学生数学建模竞赛辽宁赛区本科组一等奖，指导教师。
-* 2024 年度高教社杯全国大学生数学建模竞赛本科组二等奖，指导教师。
-* 2018 年度腾讯“犀牛鸟精英人才培养计划”。
+2026 年度国际（美国）大学生数学建模竞赛一等奖（Meritorious Winner），指导教师。
+“兴沈英才计划”拔尖人才（D 类）。
+2024 年度高教社杯全国大学生数学建模竞赛辽宁赛区本科组一等奖，指导教师。
+2024 年度高教社杯全国大学生数学建模竞赛本科组二等奖，指导教师。
+2018 年度腾讯“犀牛鸟精英人才培养计划”。
 
 ---
 
 ## 工作经历
 
-* **2022.01 – 至今**
+**2022.01 – 至今**
   东北大学，计算机科学与工程学院，讲师。
 
-* **2014.07 – 2015.09**
+**2014.07 – 2015.09**
   中国电子科技集团第二十八研究所，第三研究部，助理工程师。
 
 ---
 
 ## 教育经历
 
-* **2016.03 – 2021.10**
+**2016.03 – 2021.10**
   哈尔滨工业大学，计算学部，博士研究生。
   导师：邹兆年。
 
-* **2012.09 – 2014.07**
+**2012.09 – 2014.07**
   哈尔滨工业大学，计算机科学与技术学院，硕士研究生。
   导师：李建中。
 
-* **2008.09 – 2012.07**
+**2008.09 – 2012.07**
   哈尔滨工业大学，英才学院，本科。
 
 ---
 
 ## 讲授课程
 
-* 本科生必修课程：数据结构。
+本科生必修课程：数据结构。
 
 ---
 
 ## 在读学生
 
-* 2024 级：邱胜立，[qiusl@mails.neu.edu.cn](mailto:qiusl@mails.neu.edu.cn)。
-* 2026 级：白晓博，[2601741@stu.neu.edu.cn](mailto:2601741@stu.neu.edu.cn)。
+2024 级：邱胜立，[qiusl@mails.neu.edu.cn](mailto:qiusl@mails.neu.edu.cn)。
+
+2026 级：白晓博，[2601741@stu.neu.edu.cn](mailto:2601741@stu.neu.edu.cn)。
 
 ## 毕业学生
 
-* 2023 级：郭瀚（中国联通[北京]）
+2023 级：郭瀚（中国联通，北京）。

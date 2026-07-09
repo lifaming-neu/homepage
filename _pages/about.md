@@ -29,7 +29,7 @@ redirect_from:
 
 - 学生需有较强自驱动力，学习能力和一些抗压能力。
 
-- 对于码力较强且愿意实践的学生可以较快产出论文(可以提供Idea，需学生进行实验编写)。
+- 对于码力较强且愿意实践的学生可以较快产出论文。
 
 (有任何程序设计竞赛经历者优先考虑)
 
@@ -37,40 +37,51 @@ redirect_from:
 
 ## 论文产出
 
+- **<u>Faming Li</u>, Shengli Qiu, Xiaochun Yang, Bin Wang and Jianzhong Li**
+  [CCF A]*Fragmented Graph Pattern Matching on Large Graphs*，IEEE Trans. Knowl. Data Eng (TKDE), 2026.
+
+- **<u>Faming Li</u>, Han Guo, Shengli Qiu, Xiaochun Yang and Bin Wang**
+  [CCF B]*Constrained Reachability Queries on Hypergraphs*, DASFAA, 2026.
+
+- **<u>Faming Li</u>, Shengli Qiu, Xiaochun Yang, Bin Wang and Hengzhao Ma**
+  [CCF A]*IIT-Tree: An efficient index to support interval-based query on large temporal graphs*, ICDE, 2026.
+
+- **<u>Faming Li</u>, Shengli Qiu, Xiaochun Yang, Bin Wang and Jianzhong Li**
+  [CCF B, 中科院一区]*Enumerating Cliques on $k$-partite Graphs*, Data Science and Engineering(DSE), 2026.
+  
 - **<u>Faming Li</u>, Zhaonian Zou and Jianzhong Li.**  
-   *Durable Subgraph Matching on Temporal Graphs*, IEEE Trans. Knowl. Data Eng (TKDE), 2023, 35(5): 4713–4726.  
-   (SCI, JCR 1 区, 影响因子 8.9, CCF A)
+   [CCF A, 中科院一区]*Durable Subgraph Matching on Temporal Graphs*, IEEE Trans. Knowl. Data Eng (TKDE), 2023, 35(5): 4713–4726.  
 
 - **<u>Faming Li</u> and Zhaonian Zou.**  
-   *Subgraph Matching on Temporal Graphs*, Information Sciences, 2021, 578: 539–558.  
+   [CCF B, 中科院一区]*Subgraph Matching on Temporal Graphs*, Information Sciences, 2021, 578: 539–558.  
    (SCI, JCR 1 区, 影响因子 6.795, CCF B)
 
 - **Zhaonian Zou, <u>Faming Li</u>, Jianzhong Li and Yingshu Li.**  
-   *Scalable Processing of Massive Uncertain Graph Data: A Simultaneous Processing Approach*, ICDE 2017: 183–186.  
+   [CCF A]*Scalable Processing of Massive Uncertain Graph Data: A Simultaneous Processing Approach*, ICDE 2017: 183–186.  
    (EI, CCF A)
 
 - **<u>Faming Li</u>, Zhaonian Zou, Jianzhong Li, Yingshu Li and Yubiao Chen.**  
-   *Distributed Parallel Structural Hole Detection on Big Graphs*, DASFAA 2019: 519–535.  
+   [CCF B]*Distributed Parallel Structural Hole Detection on Big Graphs*, DASFAA 2019: 519–535.  
    (EI, CCF B)
 
 - **<u>Faming Li</u>, Zhaonian Zou, Jianzhong Li, Xiaochun Yang and Bin Wang.**  
-   *Evolving Subgraph Matching on Temporal Graphs*, Knowledge-Based Systems, 258(2022): 109961.  
+   [CCF C, 中科院一区]*Evolving Subgraph Matching on Temporal Graphs*, Knowledge-Based Systems, 258(2022): 109961.  
    (SCI, JCR 1区, 影响因子 7.2, CCF C)
 
 - **<u>Faming Li</u>, Zhaonian Zou, Xianmin Liu, Jianzhong Li, Xiaochun Yang and Bin Wang.**  
-   *Detecting Maximum k-durable Structures on Temporal Graphs*, Knowledge-Based Systems, 271(2023): 110561.  
+  [CCF C, 中科院一区]*Detecting Maximum k-durable Structures on Temporal Graphs*, Knowledge-Based Systems, 271(2023): 110561.  
    (SCI, JCR 1区, 影响因子 7.2, CCF C)
 
 - **<u>Faming Li</u>, Zhaonian Zou, Jianzhong Li and Yingshu Li.**  
-   *Graph Compression with Stars*, PAKDD 2019: 449–461.  
+  [CCF C]*Graph Compression with Stars*, PAKDD 2019: 449–461.  
    (EI, CCF C)
 
 - **<u>李发明</u>, 李建中, 邹兆年, 张冠男.**  
-   *基于压缩的大规模图的割点求解算法*, 软件学报, 2014, 25(S2): 178–188.  
+  [CCF A]*基于压缩的大规模图的割点求解算法*, 软件学报, 2014, 25(S2): 178–188.  
    (EI, CCF A 中文)
 
 - **马杰生, 王理庚, 杨晓春, <u>李发明</u>, 王斌.**  
-   *CondGraph：一个条件知识图谱的存储和查询系统*.  
+   [CCF A]*CondGraph：一个条件知识图谱的存储和查询系统*.  
    (EI, CCF A 中文, 2023 全国知识图谱与语义计算大会 (CCKS) 最佳中文论文)
 
 ---
@@ -93,6 +104,7 @@ redirect_from:
 
 ## 获奖情况
 
+- 2026年度 国际(美国)大学生数学建模竞赛一等奖(Meritorious Winner) *(指导教师)*
 - “兴沈英才计划”拔尖人才 (D类)
 - 2024年度 高教社杯数学建模竞赛辽宁赛区本科组一等奖 *(指导教师)*
 - 2024年度 高教社杯数学建模竞赛本科组二等奖 *(指导教师)*
@@ -130,5 +142,10 @@ redirect_from:
 **本科生必修课程：** 数据结构
 
 ## 在读学生
-郭瀚 (2023.9-2026.6 guohan@stumail.neu.edu.cn)
-邱胜立 (2024.9-2027.6 2401891@stu.neu.edu.cn)
+
+2024届：邱胜立 (qiusl@mails.neu.edu.cn)
+
+2026届：白晓博 (2601741@stu.neu.edu.cn)
+
+## 毕业学生
+2023届：郭瀚 (中国联通[北京]）

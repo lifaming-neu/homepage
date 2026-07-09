@@ -143,9 +143,9 @@ redirect_from:
 
 ## 在读学生
 
-2024届：邱胜立 (qiusl@mails.neu.edu.cn)
+2024级：邱胜立 (qiusl@mails.neu.edu.cn)
 
-2026届：白晓博 (2601741@stu.neu.edu.cn)
+2026级：白晓博 (2601741@stu.neu.edu.cn)
 
 ## 毕业学生
-2023届：郭瀚 (中国联通[北京]）
+2023级：郭瀚 (中国联通[北京]）

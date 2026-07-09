@@ -1,14 +1,13 @@
 ---
-
 permalink: /
 title: ""
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
+
+## 研究方向
 
 ## 研究方向
 

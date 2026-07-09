@@ -37,11 +37,11 @@ redirect_from:
 
 ## 论文产出
 
-* [CCF A] **Fragmented Graph Pattern Matching on Large Graphs.** IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026.
+* **[CCF A] Fragmented Graph Pattern Matching on Large Graphs.** IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026.
   
   <u>Faming Li</u>, Shengli Qiu, Xiaochun Yang, Bin Wang and Jianzhong Li.
 
-* [CCF B] **Constrained Reachability Queries on Hypergraphs.** DASFAA, 2026.
+* **[CCF B] Constrained Reachability Queries on Hypergraphs.** DASFAA, 2026.
   
   <u>Faming Li</u>, Han Guo, Shengli Qiu, Xiaochun Yang and Bin Wang.
 

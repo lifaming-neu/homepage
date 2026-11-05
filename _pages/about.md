@@ -153,9 +153,9 @@ redirect_from:
 
 ## 在读学生
 
-2024 级：邱胜立，[qiusl@mails.neu.edu.cn](mailto:qiusl@mails.neu.edu.cn)。
+2024 级：邱胜立，[qiusl@mails.neu.edu.cn](mailto:qiusl@mails.neu.edu.cn)。(国家奖学金、一等学业奖学金、优秀研究生)
 
-2026 级：白晓博，[2601741@stu.neu.edu.cn](mailto:2601741@stu.neu.edu.cn)。
+2026 级：白晓博，[2601741@stu.neu.edu.cn](mailto:2601741@stu.neu.edu.cn)。(一等学业奖学金)
 
 ## 毕业学生
 
